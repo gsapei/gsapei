@@ -16,14 +16,18 @@ My main activity is software development. But I am also a multi-instrumentalist 
 </p>
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/gonzalo-sapei-810065235/">
-<img src="https://img.shields.io/badge/-gsapei-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsapei" alt="Linkedin Badge">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsapei" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="mailto:gsapei@gmail.com">
-<img src="https://img.shields.io/badge/-gmail-orange?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:tanyaleepr@gmail.com" alt="Email Badge">
+<img src="https://img.shields.io/badge/-Gmail-orange?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:tanyaleepr@gmail.com" alt="Email Badge">
 </a>
 <a target="_blank" href="https://www.instagram.com/gsapei/">
-<img src="https://img.shields.io/badge/-gsapei-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gsapei/" alt="Instagram Badge">
+<img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gsapei/" alt="Instagram Badge">
 </a>
+<a target="_blank" href="https://www.youtube.com/channel/UCM0-ECPO79IZHA1-jZZxpnw">
+<img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCM0-ECPO79IZHA1-jZZxpnw" alt="Youtube Badge">
+</a>  
+
 
 <h3> Languages: </h3>
 <ul>
@@ -57,6 +61,7 @@ My main activity is software development. But I am also a multi-instrumentalist 
 <ul>
   <li> PHP </li>
   <li> Python </li>
+  <li> Ruby </li>
   <li> Node.JS </li>
   <li> C++ </li>
   <li> Bash scripting </li>
