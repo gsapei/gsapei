@@ -3,8 +3,8 @@
 
 <p align="center">
 :man: Gonzalo Sapei
-- :phone: CEL (549) 3424877744 
-- :e-mail: E-MAIL gsapei@gmail.com
+- :phone: (549) 3424877744 
+- :e-mail: gsapei@gmail.com
 </p>
 
 <h3> About Me: </h3>
