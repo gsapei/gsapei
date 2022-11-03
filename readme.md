@@ -2,19 +2,6 @@
 <br/>
 
 <p align="center">
-:man: Gonzalo Sapei
-- :phone: (549) 3424877744 
-- :e-mail: gsapei@gmail.com
-</p>
-
-<h3> About Me: </h3>
-<p align="justify">
-Hey! welcome to my personal gitHub repo. Im a software developer working on Santa Fe Argentina.
-Im a very creative and self-taught person, with a restless mind who principal interest are computers and art.
-
-My main activity is software development. But I am also a multi-instrumentalist musician, composer, photographer, graphic designer, cartoonist, painter, skater.
-</p>
-<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/gonzalo-sapei-810065235/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsapei" alt="Linkedin Badge">
 </a>
@@ -28,12 +15,22 @@ My main activity is software development. But I am also a multi-instrumentalist 
 <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCM0-ECPO79IZHA1-jZZxpnw" alt="Youtube Badge">
 </a>  
 
+<h3> About Me: </h3>
+<p>
+  Hey! :wave: welcome to my personal gitHub repo, my name is <b>Gonzalo Sapei</b>. I'm a software developer working on Santa Fe Argentina.
+Im a very creative and self-taught person, with a restless mind who principal interest are computers and art.
+
+My main activity is software development. But I am also very enthusiast multi-instrumentalist musician, composer, photographer, graphic designer, cartoonist, painter, skater.
+</p>
+
+<br/>
 
 <h3> Languages: </h3>
-<ul>
-  <li>Spanish native</li>
-  <li>English intermediate level</li>
-</ul>
+
+<p>
+Spanish native<br/>
+English intermediate level
+</p>
 
 <br/>
 
@@ -43,7 +40,7 @@ My main activity is software development. But I am also a multi-instrumentalist 
 <br/>
 
 
-<h3> Development habilities and tools: </h3>
+<h3> Programming languages and frameworks: </h3>
 
 <h4> Frontend: </h4>
 <ul>
@@ -81,6 +78,7 @@ My main activity is software development. But I am also a multi-instrumentalist 
 <ul>
   <li> experienced Windows and GNU Linux/Unix user </li>
   <li> Distributed version control system GIT user</li>
+  <li> Networks administration </li>
   <li> Design tools: Photoshop, Illustrator, AfterEffects, 3D Studio MAX</li>
 </ul>
 
