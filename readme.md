@@ -96,6 +96,6 @@ My main activity is software development. But I am also a multi-instrumentalist 
   </li>
 
   <li>
-  E.P.E. "Empresa provincial de la energia" (Year: 2016 – ACTUALIDAD) I'm part of the developers team on the GIS (Geographical Information System) department of the provincial energy company. Mostly as full-stack developer, but also designing BIRT reports, querying, planning tasks and developing PL/SQL packets in OracleSQL server, configuring servers and deploying packages for GIS aplications. Aswell as non-informatic tasks like making an institutional video for our company departament totally with Illustrator and After Effects.
+  E.P.E. "Empresa provincial de la energia" (Year: 2016 – Present) I'm part of the developers team on the GIS (Geographical Information System) department of the provincial energy company. Mostly as full-stack developer, but also designing BIRT reports, querying, planning tasks and developing PL/SQL packets in OracleSQL server, configuring servers and deploying packages for GIS aplications. Aswell as non-informatic tasks like making an institutional video for our company departament totally with Illustrator and After Effects.
   </li>
 </ul>  
