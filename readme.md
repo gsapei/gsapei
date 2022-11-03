@@ -84,17 +84,18 @@ My main activity is software development. But I am also a multi-instrumentalist 
 <h3> Work experience: </h3>
 <ul>
   <li>
-  AIRNET S.R.L. (Year: 2009 – 2011) Colaboración en desarrollo de Sistemas e instalación de redes empresariales.
+  AIRNET S.R.L. (Year: 2009 – 2011) Collaborative developer and Networks administrator.
   </li>
 
-  <li> SIC S.A. (Year: 2011 – 2012) Diseño, montaje, configuración y tendido de redes para el programa nacional “Conectar Igualdad” en instituciones educativas de toda la provincia de Santa Fe.
-  </li>
-
-  <li>
-  DESARROLLADOR FREELANCE (Year: 2012 – 2016) Mayormente en desarrollo de sistemas administrativos. También diseño y programación de sitios web.
+  <li> 
+   SIC S.A. (Year: 2011 – 2012) Network technician for “Conectar Igualdad”. An argentinian goverment program to bring connectivity to schools and educational buildings in Santa Fe.
   </li>
 
   <li>
-  EMPRESA PROVINCIAL DE LA ENERGÍA (Year: 2016 – ACTUALIDAD) Formo parte del equipo de desarrollo en el área GIS (sistemas de información georeferencial) de la empresa llevando a cabo todo tipo de tareas; desde el desarrollo full-stack de aplicaciones, desarrollo de scripts, colaboraciones de código, diseño de reportes BIRT, consultas y desarrollo de procesos y schedules en OracleSQL, administración de servidores e implementación de software. Como así también en tareas no informáticas como el desarrollo de un video institucional tipo whiteboard para el sector, realizado en su totalidad en Illustrator y After Effects.
+  FREELANCE Developer (Year: 2012 – 2016) Mostly on administrative systems, but also web development.
+  </li>
+
+  <li>
+  E.P.E. "Empresa provincial de la energia" (Year: 2016 – ACTUALIDAD) I'm part of the developers team on the GIS (Geographical Information System) department of the provincial energy company. Mostly as full-stack developer, but also designing BIRT reports, querying, planning tasks and developing PL/SQL packets in OracleSQL server, configuring servers and deploying packages for GIS aplications. Aswell as non-informatic tasks like making an institutional video for our company departament totally with Illustrator and After Effects.
   </li>
 </ul>  
