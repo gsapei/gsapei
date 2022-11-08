@@ -77,8 +77,8 @@ English intermediate level
 <h3> Other habilities: </h3>
 <ul>
   <li> Experienced Windows and GNU Linux/Unix user </li>
-  <li> Docker-Compose </li>
-  <li> GIT </li>
+  <li> Docker containers technology </li>
+  <li> GIT (distributed version control) </li>
   <li> Networks administration </li>
   <li> Design tools: Photoshop, Illustrator, AfterEffects, 3D Studio MAX</li>
 </ul>
