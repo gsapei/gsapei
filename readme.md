@@ -17,7 +17,7 @@
 
 <h3> About Me: </h3>
 <p>
-  Hey! :wave: welcome to my personal gitHub repo, my name is <b>Gonzalo Sapei</b>. I'm a software developer working on Santa Fe Argentina.
+  Hey! :wave: welcome to my personal gitHub repo, my name is <b>Gonzalo Sapei</b>. I'm a software developer from on Santa Fe Argentina, living in Barcelona.
 I'm a very creative and self-taught person, with a restless mind who principal interest are computers and art.
 
 My main activity is software development. But I am also very enthusiast multi-instrumentalist musician, composer, photographer, graphic designer, cartoonist, painter, skater.
