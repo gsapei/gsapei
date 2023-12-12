@@ -2,7 +2,7 @@
 <br/>
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/gonzalo-sapei-810065235/">
+<a target="_blank" href="https://www.linkedin.com/in/gsapei/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsapei" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="mailto:gsapei@gmail.com">
